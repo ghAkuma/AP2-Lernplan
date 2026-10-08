@@ -1,0 +1,10 @@
+# Zugangsdaten nie auf GitHub (PIN und Passwörter gehören gar nicht in diesen Ordner)
+.env*
+*.env
+!.env.example
+
+# Systemdateien
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
